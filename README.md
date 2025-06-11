@@ -18,3 +18,4 @@ Tailwind CSS - Utility-first CSS framework
 Axios - HTTP client for API requests
 React Icons - Popular icons for React applications
 
+📸 Screenshots
