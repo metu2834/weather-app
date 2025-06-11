@@ -20,3 +20,5 @@ React Icons - Popular icons for React applications
 
 📸 Screenshots
 ![App screenshot](https://github.com/metu2834/weather-app/blob/cfb96afc37996f43e70c19e7bf76e244b403d221/Weather1.png)
+
+![App Screenshot](https://github.com/metu2834/weather-app/blob/e10d09846b5f99d9169ad97e1c21d507dcd2b7dd/weather3.png)
